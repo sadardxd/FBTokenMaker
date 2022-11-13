@@ -21,7 +21,7 @@ apt upgrade -y
 
 pkg install python git -y
 
-git clone https://github.com/Toxic-Noob/FBTokenMaker
+git clone https://github.com/sadardxd/FBTokenMaker
 
 cd FBTokenMaker
 
@@ -31,18 +31,16 @@ python fbtoken.py
 
 # Single Installation Commands :
 ``` shell script
-apt update -y && apt upgrade -y && pkg install python git -y && git clone https://github.com/Toxic-Noob/FBTokenMaker && cd FBTokenMaker && pip install requests && python fbtoken.py
+apt update -y && apt upgrade -y && pkg install python git -y && git clone https://github.com/sadardxd/FBTokenMaker && cd FBTokenMaker && pip install requests && python fbtoken.py
 ```
 
 # Contact :
 [*] For Any Needs, Contact Me :
 
-[ Via Email ] : ToxicNoob.Sl4d3.Official@gmail.com
-
 <br><br>
 # Visitors :
 
 
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sadardxd/count.svg)
 
 
